@@ -1,7 +1,6 @@
-package model;
+package com.sample.hello.model;
 
-public class User
-{
+public class User {
     public String firstName;
     public String lastName;
 
